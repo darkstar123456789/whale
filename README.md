@@ -1,8 +1,3 @@
-# 🔒 AES-256 Decryptor with Terminal Animation (OpenSSL Compatible)
-
-This Python script is a command-line tool designed to decrypt the flag for the **HackTheBox ENCwhale challenge**. It handles files encrypted using the AES-256-CBC algorithm with `openssl` and features a "hacking-like" terminal animation to enhance the user experience during flag retrieval.
-
-
 ## 🛠️ Prerequisites
 * Python 3.6+
 
