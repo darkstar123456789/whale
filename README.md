@@ -24,11 +24,11 @@
 
 Save the provided Python code into a file named `decryptor.py`.
 
-### 1. 💾 Save the Encrypted Flag
+### 2. 💾 Save the Encrypted Flag
 
 Save the provided encrypted flag into a file named `encrypted.txt`.
 
-### 2. 🖥️ Run the Decryptor Script
+### 3. 🖥️ Run the Decryptor Script
 
 Execute the Python script from your terminal, providing the path to your `encrypted.txt` file as an argument:
 
